@@ -1,4 +1,5 @@
 .venv
 prediction.csv
 model/
+embeddings
 .pt
